@@ -38,6 +38,7 @@ KliKey works in every app on the phone and installs in under a minute. An iOS ve
 **Press kit:** https://0xj1nn.github.io/klikey-site/press-kit/
 **Privacy:** https://0xJ1nn.github.io/klikey-legal/privacy/
 **Video:** https://www.youtube.com/watch?v=umEjEo4n6UM
+**Assets (Google Drive):** https://drive.google.com/drive/folders/1zgnomdsMhnBjqkDkQs2yh26MeUzpQusW
 
 ---
 
@@ -92,6 +93,7 @@ Use this for Appedus (they want 600+ words), 148apps, and any site that says "te
 **Privacy:** https://0xJ1nn.github.io/klikey-legal/privacy/
 **Terms:** https://0xJ1nn.github.io/klikey-legal/terms/
 **Video:** https://www.youtube.com/watch?v=umEjEo4n6UM
+**Assets (Google Drive):** https://drive.google.com/drive/folders/1zgnomdsMhnBjqkDkQs2yh26MeUzpQusW
 
 ---
 
