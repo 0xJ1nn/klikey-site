@@ -4,19 +4,21 @@ Two versions: the **wire version** (plain paragraphs, no bullets, because IssueW
 
 The voice comes from the product's own design file: short, playful, precise. "Every key has a voice." "Type a sentence. Hear a song." No "revolutionary", no "game-changing", no "seamless". No em-dash pile-ups. No rule-of-three padding.
 
+Contact block used throughout: Jinit Ayer, independent app maker (JinUltimate) - jinultimate1995@gmail.com - +91 98333 41704. Dateline: Mumbai, October 22, 2026.
+
 ---
 
 ## VERSION A — wire version (paste this)
 
 ---
 
-**KliKey gives every key its own sound, its own animation and its own haptic — on iOS and Android**
+**KliKey gives every key its own sound, its own animation and its own haptic**
 
 *25 themes, three of which turn your typing into music. Free tier stays free. No data collected.*
 
-**[CITY], [DATE]** — JinUltimate today released KliKey on Google Play, a keyboard app for iOS and Android built around a simple idea: every key should have a voice.
+**MUMBAI, October 22, 2026** — JinUltimate has released KliKey on Google Play, a keyboard app built around a simple idea: every key should have a voice.
 
-Phone keyboards have looked and felt the same for years. KliKey changes that per theme. Each one carries its own sound set, its own key animations, and its own haptic profile across 28 voices, including thock, click, pop and rumble. The space bar and return hit noticeably harder than the rest of the row. Mechanical themes reproduce individual switch sounds, including the tick of a key spring when you lift your finger.
+Phone keyboards have looked and felt the same for years. KliKey changes that per theme. Each of its 25 themes carries its own sound set, its own key animations and its own haptic profile, drawn from 28 voices, including thock, click, pop and rumble. The space bar and return hit noticeably harder than the rest of the row. Mechanical themes reproduce individual switch sounds, including the tick of a key spring when you lift your finger.
 
 Three of the 25 themes turn typing into music. Lo-Fi Room, Kalimba and Spectrum play a moving chord progression under your fingers, so letters land on notes, the space bar holds the bass, and return plays the full chord. Type a sentence and hear a song.
 
@@ -28,12 +30,14 @@ Privacy is a default here, not a paid upgrade. Ninja blanks the keys, removes pr
 
 The free tier includes 8 themes, Ninja, Incognito, every tool, emoji, symbols, kaomoji, fancy text, haptics and learned-word sync, and it stays free. KliKey Pro unlocks the other 17 themes, the music themes, the full sound lab, all 28 voices on any theme, accent colours, backgrounds and press effects, as a monthly or yearly subscription or a one-time purchase. Every locked theme can be tried first.
 
-KliKey works in every app on the phone and installs in under a minute.
+KliKey works in every app on the phone and installs in under a minute. An iOS version is in development, built on the same core.
 
-**Media contact:** [NAME], [TITLE], JinUltimate — [EMAIL] — [PHONE]
+**Media contact:** Jinit Ayer, independent app maker (JinUltimate) — jinultimate1995@gmail.com — +91 98333 41704
 **Download:** https://play.google.com/store/apps/details?id=com.jinultimate.klikey
 **Site:** https://0xj1nn.github.io/klikey-site/
+**Press kit:** https://0xj1nn.github.io/klikey-site/press-kit/
 **Privacy:** https://0xJ1nn.github.io/klikey-legal/privacy/
+**Video:** https://www.youtube.com/watch?v=umEjEo4n6UM
 
 ---
 
@@ -47,7 +51,7 @@ KliKey works in every app on the phone and installs in under a minute.
 | 24-7PressRelease | Use as-is |
 | PR.co | Free releases cannot contain links. Strip every URL and write the addresses as plain text |
 | PR Wires | AP style. Headline in sentence case, not Title Case. Keep the dateline |
-| PressReleasePoint | Headline 40-120 characters. Body must start "City, Date /PressReleasePoint/". Company description 75+ words, management section 50+ words with at least two job titles, employee count not 0 |
+| PressReleasePoint | Headline 40-120 characters. Body must start "Mumbai, October 22, 2026 /PressReleasePoint/". Company description 75+ words, management section 50+ words with at least two job titles, employee count not 0 |
 | PRLog | Cut to about 450 words. Links become unclickable text. No photo on the free tier. Company email and phone verified by voice call |
 | openPR | Only if not used elsewhere in the same 30 days, since their terms require a free release not be distributed through another service. Rewrite headline and opening paragraph. Weekdays only |
 
@@ -59,9 +63,9 @@ Use this for Appedus (they want 600+ words), 148apps, and any site that says "te
 
 ---
 
-**KliKey: a keyboard app for iOS and Android where every key has its own sound, animation and haptic**
+**KliKey: a keyboard app where every key has its own sound, animation and haptic**
 
-**[CITY], [DATE]** — JinUltimate today released KliKey on Google Play. It is a keyboard app for iOS and Android, and the idea behind it is small: a key should not make the same sound, move the same way and feel the same as every other key.
+**MUMBAI, October 22, 2026** — JinUltimate has released KliKey on Google Play. It is a keyboard app built around an idea that is small: a key should not make the same sound, move the same way and feel the same as every other key.
 
 **Sound and haptics.** Every theme in KliKey comes with its own sound set, its own key animations and its own haptic profile, drawn from 28 voices. The set includes thock, click, pop and rumble, and the sound lab lets you tune volume, click, pitch, haptic strength and key travel. The space bar and return deliberately hit harder than the rest of the row. Mechanical themes reproduce the sound of individual switches, including the tick of a key spring on release.
 
@@ -79,26 +83,33 @@ Use this for Appedus (they want 600+ words), 148apps, and any site that says "te
 
 **Pricing.** 8 themes, Ninja, Incognito, every tool, emoji, symbols, kaomoji, fancy text, haptics and learned-word sync are free and stay free. KliKey Pro unlocks the other 17 themes, the music themes, the full sound lab, all 28 voices on any theme, accent colours, backgrounds and press effects, and is sold as a monthly or yearly subscription or as a one-time purchase. Single themes are also available on their own.
 
-**Availability.** KliKey is live on Google Play today. The iOS version is in development, built on the same core with the same themes and tools, and signing in is optional on both platforms.
+**Availability.** KliKey is live on Google Play. An iOS version is in development, built on the same core with the same themes and tools, and signing in is optional.
 
-**Media contact:** [NAME], [TITLE], JinUltimate — [EMAIL] — [PHONE]
+**Media contact:** Jinit Ayer, independent app maker (JinUltimate) — jinultimate1995@gmail.com — +91 98333 41704
 **Download:** https://play.google.com/store/apps/details?id=com.jinultimate.klikey
 **Site:** https://0xj1nn.github.io/klikey-site/
+**Press kit:** https://0xj1nn.github.io/klikey-site/press-kit/
 **Privacy:** https://0xJ1nn.github.io/klikey-legal/privacy/
 **Terms:** https://0xJ1nn.github.io/klikey-legal/terms/
+**Video:** https://www.youtube.com/watch?v=umEjEo4n6UM
 
 ---
 
 ## Short version (150 words, for tight fields)
 
-> KliKey is a keyboard app for iOS and Android from JinUltimate, live on Google Play. Every one of its 25 themes has its own sound set, its own key animations and its own haptic profile across 28 voices, including thock, click, pop and rumble. Three themes turn typing into music: letters play notes, the space bar holds the bass, return plays the chord. Tok lives in the space bar and reacts to everything you type. It ships 73 languages on their own key layouts, and collects no data at all. 8 themes, Ninja, Incognito and every tool are free forever; Pro is optional. Play: https://play.google.com/store/apps/details?id=com.jinultimate.klikey
+> KliKey is a keyboard app from JinUltimate, live on Google Play. Every one of its 25 themes has its own sound set, its own key animations and its own haptic profile across 28 voices, including thock, click, pop and rumble. Three themes turn typing into music: letters play notes, the space bar holds the bass, return plays the chord. Tok lives in the space bar and reacts to everything you type. It ships 73 languages on their own key layouts, and collects no data at all. 8 themes, Ninja, Incognito and every tool are free forever; Pro is optional. Play: https://play.google.com/store/apps/details?id=com.jinultimate.klikey
 
 ## Boilerplate (about the app)
 
-> KliKey is a keyboard app for iOS and Android by JinUltimate. It gives every key its own sound, its own animation and its own haptic, across 25 themes, three of which turn typing into music. It ships 73 languages on native key layouts, and collects no data at all. The free tier never expires.
+> KliKey is a keyboard app by JinUltimate. It gives every key its own sound, its own animation and its own haptic, across 25 themes, three of which turn typing into music. It ships 73 languages on native key layouts, and collects no data at all. The free tier never expires.
 
 ## About JinUltimate
 
-> JinUltimate is an independent app maker. KliKey is its third app, after FlashChat and Vocabify.
+> JinUltimate is an independent app maker.
 
-*(FlashChat shows 5.0 and Vocabify 4.7 on the Play Store. Use that: "from the maker of FlashChat and Vocabify" raises a random listing into a dev with a track record.)*
+## Contact
+
+> Jinit Ayer, independent app maker (JinUltimate)
+> jinultimate1995@gmail.com
+> +91 98333 41704
+> Mumbai, India
